@@ -1,0 +1,2 @@
+# naruto
+my first repository
